@@ -1,0 +1,1476 @@
+{
+ "alcar": {
+  "expedition": [
+   {
+    "name": "Rescuing Hands",
+    "desc": "Reduces Infantry/Archer damage taken every 5 turns for 2 turns.",
+    "unit": "percent damage reduction infantry and archer",
+    "levels": [
+     14.0,
+     28.0,
+     42.0,
+     56.0,
+     70.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 3150.0,
+   "Defense": 4106.0,
+   "Health": 61604.0,
+   "Expedition attack %": 370.29,
+   "Expedition defense %": 370.29
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "lethality %": 92.5,
+    "health %": 92.5
+   },
+   "unlocks": [
+    "Flagbearer",
+    "Vow of Honor"
+   ],
+   "text": "Praetorian Guard Praetorian Guard reaches 416,250 power at max. Conquest bonuses: attack 638, defense 832, health 12487. Expedition bonuses: lethality % 92.5, health % 92.5. Unlocks: Flagbearer, Vow of Honor. Highest Health bonus on any exclusive gear documented (+12487). Combined with his 61604 base, Alcar's raw Health pool exceeds 74000 before expedition multipliers. Confidence: high 2 source convergence. Sources: kingshot-data, kingshotwiki"
+  }
+ },
+ "amadeus": {
+  "expedition": [
+   {
+    "name": "Battle Ready",
+    "desc": "Young ranger Amadeus excels in boosting morale, increasing the total Squads' Lethality.",
+    "unit": "percent lethality squads",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   },
+   {
+    "name": "Way of the Blade",
+    "desc": "Amadeus imparts the secrets of swordsmanship, increasing the total Squads' Attack.",
+    "unit": "percent attack squads",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   },
+   {
+    "name": "Unrighteous Strike",
+    "desc": "Amadeus' unique swordplay has a chance to increase damage dealt by 50% for all squads.",
+    "unit": "percent proc chance",
+    "levels": [
+     8.0,
+     16.0,
+     24.0,
+     32.0,
+     40.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 2128.0,
+   "Defense": 2220.0,
+   "Health": 41624.0,
+   "Expedition attack %": 260.2,
+   "Expedition defense %": 260.2
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "lethality %": 62.5,
+    "health %": 62.5
+   },
+   "unlocks": [
+    "Double Parry",
+    "Discernment"
+   ],
+   "text": "Aegis of Fate Aegis of Fate reaches max level 50, 281,250 power at max. Conquest bonuses: attack 431, defense 562, health 8437. Expedition bonuses: lethality % 62.5, health % 62.5. Unlocks: Double Parry, Discernment. Exclusive to Amadeus. Aegis of Fate is Amadeus's unique equipment piece, NOT a skill. Unlocks Double Parry and Discernment when equipped. kingshotmastery.com incorrectly labeled it a widget/skill. Confidence: high 2 source convergence. Sources: hero_raw_sources/amadeus.md#source-6-kingshotwiki, hero_raw_sources/amadeus.md#source-15-kingshot-data"
+  }
+ },
+ "amane": {
+  "expedition": [
+   {
+    "name": "Tri-Phalanx",
+    "desc": "Increases all squads' total Attack.",
+    "unit": "percent squad attack",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   },
+   {
+    "name": "Exorcism",
+    "desc": "Increases Infirmary Healing Speed.",
+    "unit": "percent infirmary healing speed",
+    "levels": [
+     10.0,
+     20.0,
+     30.0,
+     40.0,
+     50.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 2157.0,
+   "Defense": 2220.0,
+   "Health": 13320.0,
+   "Expedition attack %": 140.11,
+   "Expedition defense %": 140.11
+  },
+  "exclusiveGear": {
+   "expedition": {},
+   "unlocks": [],
+   "text": ""
+  }
+ },
+ "chenko": {
+  "expedition": [
+   {
+    "name": "Stand of Arms",
+    "desc": "Chenko implements advanced weaponry for our soldiers, increasing the total Squads' Lethality.",
+    "unit": "percent squad lethality",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   },
+   {
+    "name": "Shield Wall",
+    "desc": "Enhances troop armor with a keen engineering eye, reducing damage taken for all troops.",
+    "unit": "percent damage reduction all troops",
+    "levels": [
+     4.0,
+     8.0,
+     12.0,
+     16.0,
+     20.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 1776.0,
+   "Defense": 2220.0,
+   "Health": 17760.0,
+   "Expedition attack %": 140.11,
+   "Expedition defense %": 140.11
+  },
+  "exclusiveGear": {
+   "expedition": {},
+   "unlocks": [],
+   "text": ""
+  }
+ },
+ "diana": {
+  "expedition": [
+   {
+    "name": "Iron Constitution",
+    "desc": "The unique arts of the wilderness rangers reduce Governor Stamina Cost.",
+    "unit": "percent stamina cost reduction",
+    "levels": [
+     10.0,
+     12.0,
+     15.0,
+     18.0,
+     20.0
+    ]
+   },
+   {
+    "name": "Quick Paced",
+    "desc": "Increases March Speed and Rally March Speed against Beasts and Terrors.",
+    "unit": "percent march speed vs beasts and terrors",
+    "levels": [
+     20.0,
+     40.0,
+     60.0,
+     80.0,
+     100.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 2157.0,
+   "Defense": 2220.0,
+   "Health": 13320.0,
+   "Expedition attack %": 110.08,
+   "Expedition defense %": 110.08
+  },
+  "exclusiveGear": {
+   "expedition": {},
+   "unlocks": [],
+   "text": ""
+  }
+ },
+ "edwin": {
+  "expedition": [
+   {
+    "name": "Demolitions Expert",
+    "desc": "Edwin's knowledge of minerals increases the Town's Quarry Output.",
+    "unit": "percent quarry output",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   },
+   {
+    "name": "Stone Mining",
+    "desc": "Edwin's expert quarrying techniques increase his Stone Mining Speed in the Wilderness.",
+    "unit": "percent stone gathering speed",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 1442.0,
+   "Defense": 2220.0,
+   "Health": 14430.0,
+   "Expedition attack %": 90.07,
+   "Expedition defense %": 90.07
+  },
+  "exclusiveGear": {
+   "expedition": {},
+   "unlocks": [],
+   "text": ""
+  }
+ },
+ "eric": {
+  "expedition": [
+   {
+    "name": "Holy Warrior",
+    "desc": "Reduces total Enemy Squads' Attack.",
+    "unit": "percent enemy attack reduction",
+    "levels": [
+     4.0,
+     8.0,
+     12.0,
+     16.0,
+     20.0
+    ]
+   },
+   {
+    "name": "Conviction",
+    "desc": "Reduces squads' damage taken.",
+    "unit": "percent damage taken reduction",
+    "levels": [
+     4.0,
+     8.0,
+     12.0,
+     16.0,
+     20.0
+    ]
+   },
+   {
+    "name": "Exhortation",
+    "desc": "Increases total squads' Health.",
+    "unit": "percent squad health",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 2554.0,
+   "Defense": 3330.0,
+   "Health": 49950.0,
+   "Expedition attack %": 290.23,
+   "Expedition defense %": 290.23
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "lethality %": 70.0,
+    "health %": 70.0
+   },
+   "unlocks": [
+    "Blessed Hammer",
+    "Vanguard"
+   ],
+   "text": "Anvil of Truth Anvil of Truth reaches 315,000 power at max. Conquest bonuses: attack 482, defense 630, health 9450. Expedition bonuses: lethality % 70.0, health % 70.0. Unlocks: Blessed Hammer, Vanguard. Highest Conquest Health bonus of any exclusive gear documented (+9450). Confidence: high 2 source convergence. Sources: kingshot-data, kingshotwiki"
+  }
+ },
+ "fahd": {
+  "expedition": [
+   {
+    "name": "Desert Eclipse",
+    "desc": "Reduces all enemy squads' damage dealt.",
+    "unit": "percent enemy damage dealt reduction",
+    "levels": [
+     4.0,
+     8.0,
+     12.0,
+     16.0,
+     20.0
+    ]
+   },
+   {
+    "name": "Pathfinder",
+    "desc": "Increases Solo Hunting March Speed.",
+    "unit": "percent solo hunting march speed",
+    "levels": [
+     20.0,
+     40.0,
+     60.0,
+     80.0,
+     100.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 1776.0,
+   "Defense": 2220.0,
+   "Health": 17760.0,
+   "Expedition attack %": 140.11,
+   "Expedition defense %": 140.11
+  },
+  "exclusiveGear": {
+   "expedition": {},
+   "unlocks": [],
+   "text": ""
+  }
+ },
+ "forrest": {
+  "expedition": [
+   {
+    "name": "Woodland Inheritor",
+    "desc": "Forrest's expert lumberjack skills increase the Town's Sawmill Output.",
+    "unit": "percent sawmill output",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   },
+   {
+    "name": "Master Woodcutter",
+    "desc": "Forrest utilizes his logging expertise to increase Wood Gathering Speed in the Wilderness.",
+    "unit": "percent wood gathering speed",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 1106.0,
+   "Defense": 2220.0,
+   "Health": 21644.0,
+   "Expedition attack %": 90.07,
+   "Expedition defense %": 90.07
+  },
+  "exclusiveGear": {
+   "expedition": {},
+   "unlocks": [],
+   "text": ""
+  }
+ },
+ "gordon": {
+  "expedition": [
+   {
+    "name": "Super Nutrients",
+    "desc": "Gordon's culinary masterpieces invigorate our soldiers, increasing total squads' Health.",
+    "unit": "percent squad health",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   },
+   {
+    "name": "Trash Talk",
+    "desc": "Beyond delicious meals, Gordon's trash talk increases the total squads' Attack.",
+    "unit": "percent squad attack",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 1776.0,
+   "Defense": 2220.0,
+   "Health": 17760.0,
+   "Expedition attack %": 140.11,
+   "Expedition defense %": 140.11
+  },
+  "exclusiveGear": {
+   "expedition": {},
+   "unlocks": [],
+   "text": ""
+  }
+ },
+ "helga": {
+  "expedition": [
+   {
+    "name": "Oath of Guardian",
+    "desc": "Chance of reducing damage taken by 50% for all squads.",
+    "unit": "percent proc chance",
+    "levels": [
+     8.0,
+     16.0,
+     24.0,
+     32.0,
+     40.0
+    ]
+   },
+   {
+    "name": "Echoes of Valhalla",
+    "desc": "Helga blows a horn to motivate the squad, increasing the Attack of all squads.",
+    "unit": "percent attack all squads",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   },
+   {
+    "name": "Nature's Balance",
+    "desc": "Helga invites everyone to embrace nature, increasing the Lethality of all squads.",
+    "unit": "percent lethality all squads",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 1873.0,
+   "Defense": 2220.0,
+   "Health": 36630.0,
+   "Expedition attack %": 200.16,
+   "Expedition defense %": 200.16
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "infantry lethality %": 55.5,
+    "infantry health %": 55.5
+   },
+   "unlocks": [
+    "Valiant Fury",
+    "Zeal"
+   ],
+   "text": "Bands of Tyre Bands of Tyre reaches max level 50, 247,500 power at max. Conquest bonuses: attack 379, defense 495, health 7425. Expedition bonuses: infantry lethality % 55.5, infantry health % 55.5. Unlocks: Valiant Fury, Zeal. Exclusive to Helga. Perplexity/allclash called it 'Helga's Lance' \u2014 likely source confusion or a different piece. 2 primary sources (kingshot-data, kingshotwiki) confirm 'Bands of Tyre' as canonical. Confidence: high 2 source convergence. Sources: kingshot-data, kingshotwiki"
+  }
+ },
+ "hilde": {
+  "expedition": [
+   {
+    "name": "Noble Path",
+    "desc": "Increases the total squads' Attack and Defense. Elixir of Strength. Grants all squads' attacks a 25% chance of dealing increased damage.",
+    "unit": "percent damage on proc",
+    "levels": [
+     120.0,
+     140.0,
+     160.0,
+     180.0,
+     200.0
+    ]
+   },
+   {
+    "name": "Trial by Fire",
+    "desc": "Chance of reducing damage taken by 50% for all squads.",
+    "unit": "percent proc chance",
+    "levels": [
+     8.0,
+     16.0,
+     24.0,
+     32.0,
+     40.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 2664.0,
+   "Defense": 2220.0,
+   "Health": 26640.0,
+   "Expedition attack %": 240.19,
+   "Expedition defense %": 240.19
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "lethality %": 60.0,
+    "health %": 60.0
+   },
+   "unlocks": [
+    "Holy Invocation",
+    "Fortitude"
+   ],
+   "text": "Revelation Revelation reaches 270,000 power at max. Conquest bonuses: attack 540, defense 540, health 5400. Expedition bonuses: lethality % 60.0, health % 60.0. Unlocks: Holy Invocation, Fortitude. Confidence: high 2 source convergence. Sources: kingshot-data, kingshotwiki"
+  }
+ },
+ "howard": {
+  "expedition": [
+   {
+    "name": "Defenders' Edge",
+    "desc": "Howard guards our troops with his shield, reducing damage taken for all troops.",
+    "unit": "percent damage reduction all troops",
+    "levels": [
+     4.0,
+     8.0,
+     12.0,
+     16.0,
+     20.0
+    ]
+   },
+   {
+    "name": "Weaken",
+    "desc": "Howard's intimidating presence reduces the total enemy squads' Attack.",
+    "unit": "percent enemy attack reduction",
+    "levels": [
+     4.0,
+     8.0,
+     12.0,
+     16.0,
+     20.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 1361.0,
+   "Defense": 2220.0,
+   "Health": 26640.0,
+   "Expedition attack %": 140.11,
+   "Expedition defense %": 140.11
+  },
+  "exclusiveGear": {
+   "expedition": {},
+   "unlocks": [],
+   "text": ""
+  }
+ },
+ "jabel": {
+  "expedition": [
+   {
+    "name": "Rally Flag",
+    "desc": "Chance to reduce damage taken by 50% for all squads. Scales the proc chance from 8% to 40%.",
+    "unit": "percent proc chance",
+    "levels": [
+     8.0,
+     16.0,
+     24.0,
+     32.0,
+     40.0
+    ]
+   },
+   {
+    "name": "Hero's Domain",
+    "desc": "Jabel, a fearless knight, grants all squads a 50% chance of dealing more damage when attacking. The proc chance is fixed at 50%; the damage bonus scales.",
+    "unit": "percent damage bonus on proc",
+    "levels": [
+     10.0,
+     20.0,
+     30.0,
+     40.0,
+     50.0
+    ]
+   },
+   {
+    "name": "Youthful Rage",
+    "desc": "Jabel's valiant spirit inspires everyone, increasing Squads' Lethality.",
+    "unit": "percent squad lethality",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 2220.0,
+   "Defense": 2220.0,
+   "Health": 22200.0,
+   "Expedition attack %": 200.16,
+   "Expedition defense %": 200.16
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "cavalry lethality %": 50.0,
+    "cavalry health %": 50.0
+   },
+   "unlocks": [
+    "Crimson Spirit",
+    "Divine Strength"
+   ],
+   "text": "Greaves of Faith Greaves of Faith reaches 225,000 power at max. Conquest bonuses: attack 450, defense 450, health 4500. Expedition bonuses: cavalry lethality % 50.0, cavalry health % 50.0. Unlocks: Crimson Spirit, Divine Strength. Exclusive to Jabel. kingshot-data categorizes the bonuses into Conquest (raw stats) and Expedition (troop-type scaling percentages). Confidence: high 2 source convergence. Sources: kingshot-data, kingshotwiki"
+  }
+ },
+ "jaeger": {
+  "expedition": [
+   {
+    "name": "The Tempest",
+    "desc": "Chance to boost squad damage by 40% for 3 turns.",
+    "unit": "percent proc chance",
+    "levels": [
+     8.0,
+     16.0,
+     24.0,
+     32.0,
+     40.0
+    ]
+   },
+   {
+    "name": "The Resistance",
+    "desc": "20% chance to reduce enemy squads' Lethality for 2 turns.",
+    "unit": "percent enemy lethality reduction",
+    "levels": [
+     10.0,
+     20.0,
+     30.0,
+     40.0,
+     50.0
+    ]
+   },
+   {
+    "name": "The Celebration",
+    "desc": "A rousing song unlocks new reserves of strength. Increases the total Squad's Health.",
+    "unit": "percent squad health",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 4045.0,
+   "Defense": 3330.0,
+   "Health": 24974.0,
+   "Expedition attack %": 290.23,
+   "Expedition defense %": 290.23
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "lethality %": 70.0,
+    "health %": 70.0
+   },
+   "unlocks": [
+    "Sound of Silence",
+    "Hymn to Survival"
+   ],
+   "text": "Wanderwail Wanderwail reaches 315,000 power at max. Conquest bonuses: attack 764, defense 630, health 4725. Expedition bonuses: lethality % 70.0, health % 70.0. Unlocks: Sound of Silence, Hymn to Survival. Confidence: high 2 source convergence. Sources: kingshot-data, Perplexity"
+  }
+ },
+ "long-fei": {
+  "expedition": [
+   {
+    "name": "Mighty Paragon",
+    "desc": "Chance of reducing damage taken by 50% for all squads.",
+    "unit": "percent proc chance",
+    "levels": [
+     10.0,
+     20.0,
+     30.0,
+     40.0,
+     50.0
+    ]
+   },
+   {
+    "name": "Celestial Sustenance",
+    "desc": "Increases Defense of all squads.",
+    "unit": "percent squad defense",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   },
+   {
+    "name": "Art of War",
+    "desc": "All squads have a 25% chance of dealing increased damage when attacking.",
+    "unit": "percent damage on proc",
+    "levels": [
+     120.0,
+     140.0,
+     160.0,
+     180.0,
+     200.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 3780.0,
+   "Defense": 4928.0,
+   "Health": 73926.0,
+   "Expedition attack %": 444.35,
+   "Expedition defense %": 444.35
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "lethality %": 111.0,
+    "health %": 111.0
+   },
+   "unlocks": [
+    "Strong Brew",
+    "Strategic Strike"
+   ],
+   "text": "Immortal's Flask Conquest bonuses: attack 765, defense 999, health 14985. Expedition bonuses: lethality % 111.0, health % 111.0. Unlocks: Strong Brew, Strategic Strike. Highest exclusive-gear Health bonus documented (+14985). Confidence: 9x3x3 VERIFIED 2 sources kingshot data plus lootbar. Sources: kingshot-data, lootbar.gg/blog/en/kingshot-gen-5-heroes-guide.html"
+  }
+ },
+ "margot": {
+  "expedition": [
+   {
+    "name": "Warbringer",
+    "desc": "Increases total squads' Attack.",
+    "unit": "percent squad attack",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   },
+   {
+    "name": "Subterfuge",
+    "desc": "Grants all squads a chance of dodging Normal Attacks.",
+    "unit": "percent dodge chance",
+    "levels": [
+     4.0,
+     8.0,
+     12.0,
+     16.0,
+     20.0
+    ]
+   },
+   {
+    "name": "Sleight Hand",
+    "desc": "Cavalry have a 25% chance of performing an extra attack.",
+    "unit": "percent extra attack damage",
+    "levels": [
+     120.0,
+     140.0,
+     160.0,
+     180.0,
+     200.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 4106.0,
+   "Defense": 4106.0,
+   "Health": 41070.0,
+   "Expedition attack %": 370.29,
+   "Expedition defense %": 370.29
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "lethality %": 92.5,
+    "health %": 92.5
+   },
+   "unlocks": [
+    "Indefensible",
+    "Pugilist"
+   ],
+   "text": "Revel Fang Revel Fang reaches 416,250 power at max. Conquest bonuses: attack 832, defense 832, health 8325. Expedition bonuses: lethality % 92.5, health % 92.5. Unlocks: Indefensible, Pugilist. Gen 4 tier exclusive gear (same power as Rosa's Aeolian and Alcar's Praetorian Guard). Confidence: high 2 source convergence. Sources: kingshot-data, kingshotwiki"
+  }
+ },
+ "marlin": {
+  "expedition": [
+   {
+    "name": "Wild Card",
+    "desc": "Marlin, being unpredictable, has a chance to increase damage dealt by 50% for all squads.",
+    "unit": "percent proc chance",
+    "levels": [
+     8.0,
+     16.0,
+     24.0,
+     32.0,
+     40.0
+    ]
+   },
+   {
+    "name": "Rumhead",
+    "desc": "Grants all squads a 20% chance on attack of reducing enemy squads' Lethality for 2 turns.",
+    "unit": "percent enemy lethality reduction",
+    "levels": [
+     10.0,
+     20.0,
+     30.0,
+     40.0,
+     50.0
+    ]
+   },
+   {
+    "name": "Dynamo",
+    "desc": "Grants squads' attacks a 50% chance of increasing damage dealt.",
+    "unit": "percent damage increase",
+    "levels": [
+     10.0,
+     20.0,
+     30.0,
+     40.0,
+     50.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 3235.0,
+   "Defense": 2220.0,
+   "Health": 19980.0,
+   "Expedition attack %": 240.19,
+   "Expedition defense %": 240.19
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "lethality %": 60.0,
+    "health %": 60.0
+   },
+   "unlocks": [
+    "Servant of Wine",
+    "Admiral of the Line"
+   ],
+   "text": "Mistweaver Mistweaver reaches 270,000 power at max. Conquest bonuses: attack 655, defense 540, health 4050. Expedition bonuses: lethality % 60.0, health % 60.0. Unlocks: Servant of Wine, Admiral of the Line. Highest exclusive-gear Attack bonus documented so far (+655 vs Saul's Rabbitgear Cannon +546). Confidence: high 2 source convergence. Sources: kingshot-data, kingshotwiki"
+  }
+ },
+ "olive": {
+  "expedition": [
+   {
+    "name": "Green Thumb",
+    "desc": "Olive's unmatched baking skills increase the Town's Mill Output.",
+    "unit": "percent mill output",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   },
+   {
+    "name": "Forager's Luck",
+    "desc": "Olive's logistics expertise increases Bread Gathering Speed in the Wilderness.",
+    "unit": "percent bread gathering speed",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 1752.0,
+   "Defense": 2220.0,
+   "Health": 10822.0,
+   "Expedition attack %": 90.07,
+   "Expedition defense %": 90.07
+  },
+  "exclusiveGear": {
+   "expedition": {},
+   "unlocks": [],
+   "text": ""
+  }
+ },
+ "petra": {
+  "expedition": [
+   {
+    "name": "Evil Eye",
+    "desc": "50% chance of cursing the target, increasing damage taken.",
+    "unit": "percent damage taken increase",
+    "levels": [
+     10.0,
+     20.0,
+     30.0,
+     40.0,
+     50.0
+    ]
+   },
+   {
+    "name": "The Favor",
+    "desc": "50% chance of increasing all squads' Attack.",
+    "unit": "percent attack all squads",
+    "levels": [
+     10.0,
+     20.0,
+     30.0,
+     40.0,
+     50.0
+    ]
+   },
+   {
+    "name": "The Shield",
+    "desc": "40% chance of reducing damage taken for all squads.",
+    "unit": "percent damage reduction",
+    "levels": [
+     10.0,
+     20.0,
+     30.0,
+     40.0,
+     50.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 3330.0,
+   "Defense": 3330.0,
+   "Health": 33300.0,
+   "Expedition attack %": 290.23,
+   "Expedition defense %": 290.23
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "lethality %": 70.0,
+    "health %": 70.0
+   },
+   "unlocks": [
+    "Weighted Deck",
+    "Cosmic Eye"
+   ],
+   "text": "Fate's Writ Fate's Writ reaches 315,000 power at max. Conquest bonuses: attack 630, defense 630, health 6300. Expedition bonuses: lethality % 70.0, health % 70.0. Unlocks: Weighted Deck, Cosmic Eye. Gen 3 heroes get higher exclusive gear power (315,000 vs Gen 1-2's 225,000-270,000) and higher Expedition percentages (70% vs 50-60%). Confidence: high 2 source convergence. Sources: kingshot-data, kingshotwiki"
+  }
+ },
+ "quinn": {
+  "expedition": [
+   {
+    "name": "Sixth Sense",
+    "desc": "Senses for dangers ahead, reducing damage taken for all troops.",
+    "unit": "percent damage reduction",
+    "levels": [
+     4.0,
+     8.0,
+     12.0,
+     16.0,
+     20.0
+    ]
+   },
+   {
+    "name": "Precision Shot",
+    "desc": "Grants all soldiers a 50% chance of dealing 50% more damage when attacking.",
+    "unit": "percent extra damage on proc",
+    "levels": [
+     10.0,
+     20.0,
+     30.0,
+     40.0,
+     50.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 2157.0,
+   "Defense": 2220.0,
+   "Health": 13320.0,
+   "Expedition attack %": 140.11,
+   "Expedition defense %": 140.11
+  },
+  "exclusiveGear": {
+   "expedition": {},
+   "unlocks": [],
+   "text": ""
+  }
+ },
+ "rosa": {
+  "expedition": [
+   {
+    "name": "Swoon Chakra",
+    "desc": "Reduces enemy squads' Attack Speed and healing effects. Chaos Gambit. Grants a 40% chance of increasing all squads' damage dealt.",
+    "unit": "percent damage increase",
+    "levels": [
+     10.0,
+     20.0,
+     30.0,
+     40.0,
+     50.0
+    ]
+   },
+   {
+    "name": "Rose of War",
+    "desc": "Reduces damage dealt by all enemy squads.",
+    "unit": "percent enemy damage reduction",
+    "levels": [
+     4.0,
+     8.0,
+     12.0,
+     16.0,
+     20.0
+    ]
+   },
+   {
+    "name": "Golden Rhythm",
+    "desc": "Increases Archers' total Attack.",
+    "unit": "percent archer attack",
+    "levels": [
+     6.0,
+     12.0,
+     18.0,
+     24.0,
+     30.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 4989.0,
+   "Defense": 4106.0,
+   "Health": 30802.0,
+   "Expedition attack %": 370.29,
+   "Expedition defense %": 370.29
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "lethality %": 92.5,
+    "health %": 92.5
+   },
+   "unlocks": [
+    "Night Reverie",
+    "Perihelion"
+   ],
+   "text": "Aeolian Aeolian reaches 416,250 power at max. Conquest bonuses: attack 1010, defense 832, health 6243. Expedition bonuses: lethality % 92.5, health % 92.5. Unlocks: Night Reverie, Perihelion. Highest exclusive gear power documented (416,250). Highest Expedition percentages (92.50%). Gen 4 power creep is real. Confidence: high 2 source convergence. Sources: kingshot-data, kingshotwiki"
+  }
+ },
+ "saul": {
+  "expedition": [
+   {
+    "name": "Taskforce Training",
+    "desc": "Increases total squads' Defense and Health. Resourceful. Increases Construction Speed and reduces Construction Costs. Unique city-management utility. Positional Batter. Increases the Lethality of all squads.",
+    "unit": "percent lethality all squads",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 2697.0,
+   "Defense": 2220.0,
+   "Health": 16650.0,
+   "Expedition attack %": 200.16,
+   "Expedition defense %": 200.16
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "lethality %": 50.0,
+    "health %": 50.0
+   },
+   "unlocks": [
+    "Fearless Advance",
+    "Defend to Attack"
+   ],
+   "text": "Rabbitgear Cannon Rabbitgear Cannon reaches 225,000 power at max. Conquest bonuses: attack 546, defense 450, health 3375. Expedition bonuses: lethality % 50.0, health % 50.0. Unlocks: Fearless Advance, Defend to Attack. Exclusive to Saul. Highest Attack bonus among Gen 1 exclusive gear pieces (+546 vs Jabel's +450, Amadeus's Aegis of Fate Conquest stats). Confidence: high 2 source convergence. Sources: kingshot-data, kingshotwiki"
+  }
+ },
+ "seth": {
+  "expedition": [
+   {
+    "name": "Burnished Iron",
+    "desc": "Seth passes on his passion for iron mining, increasing the Town's Iron Output.",
+    "unit": "percent iron output",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   },
+   {
+    "name": "Craftsmanship",
+    "desc": "Seth's special bond with Iron increases his Iron Mining Speed in the Wilderness.",
+    "unit": "percent iron gathering speed",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 1106.0,
+   "Defense": 2220.0,
+   "Health": 21644.0,
+   "Expedition attack %": 90.07,
+   "Expedition defense %": 90.07
+  },
+  "exclusiveGear": {
+   "expedition": {},
+   "unlocks": [],
+   "text": ""
+  }
+ },
+ "sophia": {
+  "expedition": [
+   {
+    "name": "Arcane Pact",
+    "desc": "Chance per turn to reduce damage taken by 50%.",
+    "unit": "percent proc chance per turn",
+    "levels": [
+     8.0,
+     16.0,
+     24.0,
+     32.0,
+     40.0
+    ]
+   },
+   {
+    "name": "Terror - Deathblow",
+    "desc": "Inflicts Terror status, causing increased damage from Cavalry to the target.",
+    "unit": "percent cavalry damage increase on target",
+    "levels": [
+     40.0,
+     80.0,
+     120.0,
+     160.0,
+     200.0
+    ]
+   },
+   {
+    "name": "Terror - Annihilation",
+    "desc": "All squads deal increased damage to Terrified targets.",
+    "unit": "percent damage increase all squads vs terror",
+    "levels": [
+     15.0,
+     30.0,
+     45.0,
+     60.0,
+     75.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 5926.0,
+   "Defense": 5926.0,
+   "Health": 59274.0,
+   "Expedition attack %": 540.43,
+   "Expedition defense %": 540.43
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "lethality %": 133.5,
+    "health %": 133.5
+   },
+   "unlocks": [
+    "Eyes of Obedience",
+    "Queen of Night"
+   ],
+   "text": "Scarlet Rose Conquest bonuses: attack 1201, defense 1201, health 12015. Expedition bonuses: lethality % 133.5, health % 133.5. Unlocks: Eyes of Obedience, Queen of Night. Confidence: 9x3x3 VERIFIED 2 sources kingshot data plus lootbar. Sources: kingshot-data, lootbar.gg/blog/en/kingshot-gen-6-heroes-list-and-ranking.html"
+  }
+ },
+ "thrud": {
+  "expedition": [
+   {
+    "name": "Battle Hunger",
+    "desc": "Reduces damage taken and increases damage dealt for Infantry and Archer troops. Reckless Charge. Cavalry has 20% chance of dealing extra damage to all enemies on attack.",
+    "unit": "percent extra damage on proc",
+    "levels": [
+     20.0,
+     40.0,
+     60.0,
+     80.0,
+     100.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 4928.0,
+   "Defense": 4928.0,
+   "Health": 49284.0,
+   "Expedition attack %": 444.35,
+   "Expedition defense %": 444.35
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "lethality %": 111.0,
+    "health %": 111.0
+   },
+   "unlocks": [
+    "Berserker's Edge",
+    "Wolf-Kissed"
+   ],
+   "text": "Bloodfang Conquest bonuses: attack 999, defense 999, health 9990. Expedition bonuses: lethality % 111.0, health % 111.0. Unlocks: Berserker's Edge, Wolf-Kissed. Confidence: 9x3x3 VERIFIED 2 sources kingshot data plus lootbar. Sources: kingshot-data, lootbar.gg/blog/en/kingshot-gen-5-heroes-guide.html"
+  }
+ },
+ "triton": {
+  "expedition": [
+   {
+    "name": "Command of Power",
+    "desc": "Increases total Squads' Defense.",
+    "unit": "percent squad defense",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   },
+   {
+    "name": "Warfare of Power",
+    "desc": "Increases total Squads' skill damage dealt.",
+    "unit": "percent skill damage all squads",
+    "levels": [
+     6.0,
+     12.0,
+     18.0,
+     24.0,
+     30.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 4546.0,
+   "Defense": 5926.0,
+   "Health": 99910.0,
+   "Expedition attack %": 540.43,
+   "Expedition defense %": 540.43
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "lethality %": 133.5,
+    "health %": 133.5
+   },
+   "unlocks": [
+    "Magnetic Reformation",
+    "Whale Call"
+   ],
+   "text": "Tidal Scepter Conquest bonuses: attack 921, defense 1201, health 18022. Expedition bonuses: lethality % 133.5, health % 133.5. Unlocks: Magnetic Reformation, Whale Call. Highest exclusive-gear Health bonus documented (+18022). Confidence: 9x3x3 VERIFIED 2 sources kingshot data plus lootbar. Sources: kingshot-data, lootbar.gg/blog/en/kingshot-gen-6-heroes-list-and-ranking.html"
+  }
+ },
+ "vivian": {
+  "expedition": [
+   {
+    "name": "Crouching Tiger",
+    "desc": "All squads' attacks increase enemy damage taken.",
+    "unit": "percent enemy damage taken increase",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   },
+   {
+    "name": "Focus Fire",
+    "desc": "After every 4 attacks, Vivian deals 100% extra damage to all enemies, and the target takes 15% extra damage on its next hit. Trap of Greed. Deals 60% extra damage to all enemies on the next attack of every four attacks. This is a DISTINCT skill from Focus Fire \u2014 both trigger 'every 4 attacks' but have different effects.",
+    "unit": "percent extra damage archer on 4th attack",
+    "levels": [
+     12.0,
+     24.0,
+     36.0,
+     48.0,
+     60.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 5987.0,
+   "Defense": 4928.0,
+   "Health": 36962.0,
+   "Expedition attack %": 444.35,
+   "Expedition defense %": 444.35
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "archer lethality %": 111.0,
+    "archer health %": 111.0
+   },
+   "unlocks": [
+    "Refined Gunplay",
+    "Money Driven"
+   ],
+   "text": "Lucky Spinner Lucky Spinner reaches 499,500 power at max. Conquest bonuses: attack 1212, defense 999, health 7494. Expedition bonuses: archer lethality % 111.0, archer health % 111.0. Unlocks: Refined Gunplay, Money Driven. Highest exclusive gear power documented (499,500). First documented hero with Escort bonuses in the exclusive gear. Confidence: high 2 source convergence. Sources: kingshot-data, Perplexity"
+  }
+ },
+ "yang": {
+  "expedition": [
+   {
+    "name": "Avalanche",
+    "desc": "An avalanche for Yang is just another weapon in the arsenal, resulting in an additional strike against a target by all squads every 4 turns.",
+    "unit": "percent of attack extra strike damage",
+    "levels": [
+     20.0,
+     40.0,
+     60.0,
+     80.0,
+     100.0
+    ]
+   },
+   {
+    "name": "Ice Zone",
+    "desc": "Years of arctic adversity have taught Yang to seize advantages. Yang's Archers have a 40% chance of dealing 100% extra damage with every attack.",
+    "unit": "percent extra damage scaling",
+    "levels": [
+     20.0,
+     40.0,
+     60.0,
+     80.0,
+     100.0
+    ]
+   },
+   {
+    "name": "Ambush",
+    "desc": "Yang gives all squads a chance of dealing increased damage every turn. Some sources frame this as a Rally Squad Lethality buff since increased squad damage in rallies functionally reads as rally lethality.",
+    "unit": "percent proc chance",
+    "levels": [
+     8.0,
+     16.0,
+     24.0,
+     32.0,
+     40.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 7200.0,
+   "Defense": 5926.0,
+   "Health": 44454.0,
+   "Expedition attack %": 540.43,
+   "Expedition defense %": 540.43
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "lethality %": 133.5,
+    "health %": 133.5
+   },
+   "unlocks": [
+    "Quick Draw",
+    "Offensive Defense"
+   ],
+   "text": "Frostkin Conquest bonuses: attack 1457, defense 1201, health 9011. Expedition bonuses: lethality % 133.5, health % 133.5. Unlocks: Quick Draw, Offensive Defense. Highest exclusive-gear Attack bonus documented (+1457). Gen 6 power tier. Confidence: 9x3x3 VERIFIED 2 sources kingshot data plus lootbar. Sources: kingshot-data, lootbar.gg/blog/en/kingshot-gen-6-heroes-list-and-ranking.html"
+  }
+ },
+ "yeonwoo": {
+  "expedition": [
+   {
+    "name": "On Guard",
+    "desc": "Yeonwoo's sword skills increase all squads' total Lethality.",
+    "unit": "percent squad lethality",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   },
+   {
+    "name": "Well-Traveled",
+    "desc": "Increases Research Speed.",
+    "unit": "percent research speed",
+    "levels": [
+     3.0,
+     6.0,
+     9.0,
+     12.0,
+     15.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 2157.0,
+   "Defense": 2220.0,
+   "Health": 13320.0,
+   "Expedition attack %": 140.11,
+   "Expedition defense %": 140.11
+  },
+  "exclusiveGear": {
+   "expedition": {},
+   "unlocks": [],
+   "text": ""
+  }
+ },
+ "zoe": {
+  "expedition": [
+   {
+    "name": "Sundering Wound",
+    "desc": "Your squads' attacks gain a 20% chance of inflicting Sunder, dealing damage per turn for 3 turns.",
+    "unit": "percent damage per turn",
+    "levels": [
+     8.0,
+     16.0,
+     24.0,
+     32.0,
+     40.0
+    ]
+   },
+   {
+    "name": "Stoic",
+    "desc": "Zoe is a gifted female orator, and her rousing battle speeches increase the total Squads' Attack.",
+    "unit": "percent attack all squads",
+    "levels": [
+     5.0,
+     10.0,
+     15.0,
+     20.0,
+     25.0
+    ]
+   },
+   {
+    "name": "Infinite Arsenal",
+    "desc": "Your squads' attacks gain a 50% chance of amplifying enemy squads' damage taken.",
+    "unit": "percent damage amplification",
+    "levels": [
+     10.0,
+     20.0,
+     30.0,
+     40.0,
+     50.0
+    ]
+   }
+  ],
+  "baseStats": {
+   "Attack": 2043.0,
+   "Defense": 2664.0,
+   "Health": 39960.0,
+   "Expedition attack %": 240.19,
+   "Expedition defense %": 240.19
+  },
+  "exclusiveGear": {
+   "expedition": {
+    "lethality %": 60.0,
+    "health %": 60.0
+   },
+   "unlocks": [
+    "Death or Glory",
+    "Dark Lady"
+   ],
+   "text": "The Unrighteous The Unrighteous reaches 270,000 power at max. Conquest bonuses: attack 414, defense 540, health 8100. Expedition bonuses: lethality % 60.0, health % 60.0. Unlocks: Death or Glory, Dark Lady. Confidence: high 2 source convergence. Sources: kingshot-data, kingshotwiki"
+  }
+ }
+}

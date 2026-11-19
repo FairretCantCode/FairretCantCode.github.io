@@ -1,0 +1,203 @@
+{
+  "_meta": {
+    "dataset": "kingshot-governor-charm",
+    "title": "Kingshot Governor Charm Costs",
+    "description": "Per-level Governor Charm cost in Charm Guides and Charm Designs, with stat increase % and power gained.",
+    "count": 22,
+    "provenance": {
+      "sources": [
+        "https://kingshot.net/database/governor-charm",
+        "https://www.kingshotguide.org/data-center/governor-charm-kingshot",
+        "in-game profile (3x Lv.12 charms = +177.00% Lethality/Health)"
+      ],
+      "confidence": "scored",
+      "verified": "2026-04",
+      "method": "kingshot.net and kingshotguide.org agree EXACTLY on all 22 levels (guides, designs, stat%, power). The per-level stat% is IN-GAME VERIFIED: cumulative stat to Lv.12 = 59% per charm, x3 charms = 177.00%, matching a live profile screenshot exactly. (kingshot.net and kingshotguide.org may share a feed, so materials/power are cross-checked-but-not-fully-independent; the stat ladder is independently confirmed in-game.)"
+    },
+    "license": "CC-BY-4.0 — attribute to https://kingshotpro.com",
+    "canonical": "https://kingshotpro.com/data/charm.json",
+    "updated": "2026-06-14",
+    "confidence_scale": {
+      "description": "Accuracy score (0-100) = probability the value is correct for the live game.",
+      "note": "Charm = 90 (Confirmed): two sources agree on all 22 levels and the stat ladder is in-game verified (3x Lv.12 = 177%). Held below Verified because the two data sources may share a feed and materials/power are not independently in-game checked."
+    }
+  },
+  "charmLevels": [
+    {
+      "level": 1,
+      "charmGuides": 5,
+      "charmDesigns": 5,
+      "statIncreasePct": 9,
+      "powerGained": 205700,
+      "confidence": 90
+    },
+    {
+      "level": 2,
+      "charmGuides": 40,
+      "charmDesigns": 15,
+      "statIncreasePct": 3,
+      "powerGained": 82300,
+      "confidence": 90
+    },
+    {
+      "level": 3,
+      "charmGuides": 60,
+      "charmDesigns": 40,
+      "statIncreasePct": 4,
+      "powerGained": 82000,
+      "confidence": 90
+    },
+    {
+      "level": 4,
+      "charmGuides": 80,
+      "charmDesigns": 100,
+      "statIncreasePct": 3,
+      "powerGained": 82000,
+      "confidence": 90
+    },
+    {
+      "level": 5,
+      "charmGuides": 100,
+      "charmDesigns": 200,
+      "statIncreasePct": 6,
+      "powerGained": 124000,
+      "confidence": 90
+    },
+    {
+      "level": 6,
+      "charmGuides": 120,
+      "charmDesigns": 300,
+      "statIncreasePct": 5,
+      "powerGained": 124000,
+      "confidence": 90
+    },
+    {
+      "level": 7,
+      "charmGuides": 140,
+      "charmDesigns": 400,
+      "statIncreasePct": 5,
+      "powerGained": 124000,
+      "confidence": 90
+    },
+    {
+      "level": 8,
+      "charmGuides": 200,
+      "charmDesigns": 400,
+      "statIncreasePct": 5,
+      "powerGained": 124000,
+      "confidence": 90
+    },
+    {
+      "level": 9,
+      "charmGuides": 300,
+      "charmDesigns": 400,
+      "statIncreasePct": 5,
+      "powerGained": 124000,
+      "confidence": 90
+    },
+    {
+      "level": 10,
+      "charmGuides": 420,
+      "charmDesigns": 420,
+      "statIncreasePct": 5,
+      "powerGained": 124000,
+      "confidence": 90
+    },
+    {
+      "level": 11,
+      "charmGuides": 560,
+      "charmDesigns": 420,
+      "statIncreasePct": 5,
+      "powerGained": 124000,
+      "confidence": 90
+    },
+    {
+      "level": 12,
+      "charmGuides": 580,
+      "charmDesigns": 600,
+      "statIncreasePct": 4,
+      "powerGained": 96000,
+      "confidence": 90
+    },
+    {
+      "level": 13,
+      "charmGuides": 610,
+      "charmDesigns": 780,
+      "statIncreasePct": 4,
+      "powerGained": 96000,
+      "confidence": 90
+    },
+    {
+      "level": 14,
+      "charmGuides": 645,
+      "charmDesigns": 960,
+      "statIncreasePct": 4,
+      "powerGained": 96000,
+      "confidence": 90
+    },
+    {
+      "level": 15,
+      "charmGuides": 685,
+      "charmDesigns": 1140,
+      "statIncreasePct": 4,
+      "powerGained": 96000,
+      "confidence": 90
+    },
+    {
+      "level": 16,
+      "charmGuides": 730,
+      "charmDesigns": 1320,
+      "statIncreasePct": 4,
+      "powerGained": 96000,
+      "confidence": 90
+    },
+    {
+      "level": 17,
+      "charmGuides": 780,
+      "charmDesigns": 1500,
+      "statIncreasePct": 4,
+      "powerGained": 96000,
+      "confidence": 90
+    },
+    {
+      "level": 18,
+      "charmGuides": 835,
+      "charmDesigns": 1680,
+      "statIncreasePct": 4,
+      "powerGained": 96000,
+      "confidence": 90
+    },
+    {
+      "level": 19,
+      "charmGuides": 895,
+      "charmDesigns": 1860,
+      "statIncreasePct": 4,
+      "powerGained": 96000,
+      "confidence": 90
+    },
+    {
+      "level": 20,
+      "charmGuides": 960,
+      "charmDesigns": 2040,
+      "statIncreasePct": 4,
+      "powerGained": 96000,
+      "confidence": 90
+    },
+    {
+      "level": 21,
+      "charmGuides": 1030,
+      "charmDesigns": 2220,
+      "statIncreasePct": 4,
+      "powerGained": 96000,
+      "confidence": 90
+    },
+    {
+      "level": 22,
+      "charmGuides": 1105,
+      "charmDesigns": 2400,
+      "statIncreasePct": 4,
+      "powerGained": 96000,
+      "confidence": 90
+    }
+  ]
+}

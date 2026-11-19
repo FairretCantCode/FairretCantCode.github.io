@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kingshot Rally Calculator</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <span class="logo">⚔</span>
+      <div>
+        <h1>Kingshot Rally Calculator</h1>
+        <p class="sub">Engine: kingshotsim.com damage formula · SkillMod op codes · expected &amp; Monte Carlo</p>
+      </div>
+    </div>
+    <div class="top-actions">
+      <label class="chk" title="Hide heroes from later generations in hero dropdowns and the search pool">Server gen <select id="opt-gen"></select></label>
+      <label class="chk" title="Speculative: −0.01% damage per round"><input type="checkbox" id="opt-fatigue"> Fatigue</label>
+      <button class="ghost" id="btn-export">Export</button>
+      <label class="ghost btnlike">Import<input type="file" id="btn-import" accept=".json" hidden></label>
+      <button class="ghost danger" id="btn-reset">Reset</button>
+    </div>
+  </header>
+
+  <nav class="tabs" id="tabs">
+    <button data-tab="target" class="on">1 · Target</button>
+    <button data-tab="attacker">2 · Your rally</button>
+    <button data-tab="sim">3 · Simulate</button>
+    <button data-tab="search">4 · Find a winning rally</button>
+    <button data-tab="chain">5 · Rally chain</button>
+    <button data-tab="db">Database</button>
+  </nav>
+
+  <main>
+    <section id="tab-target" class="tab on"></section>
+    <section id="tab-attacker" class="tab"></section>
+    <section id="tab-sim" class="tab"></section>
+    <section id="tab-search" class="tab"></section>
+    <section id="tab-chain" class="tab"></section>
+    <section id="tab-db" class="tab"></section>
+  </main>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

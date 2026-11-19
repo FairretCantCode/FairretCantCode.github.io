@@ -1,0 +1,6 @@
+# local tooling / personal data
+.claude/
+test_human/
+.DS_Store
+*.log
+__pycache__/
